@@ -1,0 +1,14 @@
+body {
+    background-color: #fffafa;
+    padding: 40px;
+}
+
+.App {
+    margin: 50px;
+
+}
+
+.base-container {
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
